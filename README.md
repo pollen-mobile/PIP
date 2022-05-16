@@ -1,7 +1,7 @@
 # Pollen Improvement Proposals (PIP)
 The goal of the PIP project is to provide clear documentation for proposed changes and improvements to the Pollen Mobile ecosystem. 
 
-When submitting a PIP, please use the <a href=" ">*Pollen Improvement Proposal Template*</a>. 
+When submitting a PIP, please use the <a href="https://github.com/pollen-mobile/PIP/blob/main/0000/pip-template.md">**Pollen Improvement Proposal Template**</a>. 
 
 Visit <a href="https://discord.gg/FzyzADdj">#pip-general in the Pollen community Discord</a> if you have any questions or feedback on this process. 
 
