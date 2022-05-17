@@ -21,6 +21,7 @@ After you've submitted your PR, a member of the Pollen team will review your req
 
 One your PR is merged, a channel for your PIP will be created in the Pollen Mobile community Discord (e.g. #pip-00-proposal-name)
 
+[Markdown Cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
 
 
