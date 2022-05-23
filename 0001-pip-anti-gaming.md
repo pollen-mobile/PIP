@@ -31,6 +31,7 @@ Gaming is unavoidable in any rewards incentivited utility blockchain project. It
 1. Reduce max Hex for a Camellia as its the most commonly gamed. 
  * Motivation: Its an indoor flower, a hex is several city block, and its therefore not possible for a Camellia to cover more then 1 hex.
  *  Side effects: A Camellia could be place in an outdoor enclosure on balcony, roof etc plus this would effect C owners that never gamed the rewards as well.
+2. Use signal strength FSPL to filter out impossibles validation location.
 
 ### The moving Flower
 * Deliberate exploit by driving around with a flower (C or D), powered by battery and tethered internet connection. 
@@ -59,7 +60,23 @@ Gaming is unavoidable in any rewards incentivited utility blockchain project. It
 * As phones need to be relatively new and need flower coverage to work, its hard for users to find neighboors and family to give esims to. Further its crypto project that makes it even harder to "give" these away. Alternative for many is un used ESIMS. 
  
 #### Pollen addressing this exploit:
- 1. No current fix known .
+ 1. No current fix known to be implemented. 
+ 2. Using IMEI wouldn't work as H is supposed to be private and the only identifier being a NFT.
+ 3. Possibly a check of how long a device ESIM been active could be used, short attach to flower wouldnt give the 1pic for example.
+
+### Spoofing GPS with SDR (Software Defined Radio)
+* A bit more technical but not that hard todo. The basic principal is to use SDR to transmitt low power fake GPS transmissions that could re loacate BB's to game hex validation as long as the BB is in the coverage area of a Flower. HB drops could also be spoofed in this manner.
+ 
+#### Pollen addressing this exploit:
+ 1. No current fix known to be implemented. 
+ 2. Use signal strength and FSPL to filter out impossible validation location (possible to game this as well though)
+ 3. Use assisted GPS, location of other know celluar network towers, WIFI hotspots etc.
+
+
+### Violation remedies
+1. Set priority/severity of exploits
+2. Set appropriate community approved remedies (rewards reductions, ban-list etc)
+
 
 - *Technical Requirements*
 - *Architectural Requirements*
