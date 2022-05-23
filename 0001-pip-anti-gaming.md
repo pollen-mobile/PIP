@@ -32,6 +32,7 @@ Gaming is unavoidable in any rewards incentivited utility blockchain project. It
  * Motivation: Its an indoor flower, a hex is several city block, and its therefore not possible for a Camellia to cover more then 1 hex.
  *  Side effects: A Camellia could be place in an outdoor enclosure on balcony, roof etc plus this would effect C owners that never gamed the rewards as well.
 2. Use signal strength FSPL to filter out impossibles validation location.
+3. Require certain number of GPS satellite looks before validation is possible to minimize drift.
 
 ### The moving Flower
 * Deliberate exploit by driving around with a flower (C or D), powered by battery and tethered internet connection. 
