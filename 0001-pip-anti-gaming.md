@@ -5,14 +5,16 @@
 - **Status:** Draft
 
 ## Overview
-Gaming is unavoidable in any rewards incentivited utility blockchain project, and its therefor important to curb this as soon as possible while the number of network participants is relatively small. If we don't continue do this new in excisting user could become disenfranchised and lose the incentive to build the network. New gaming method will clearly always be devloped after we closed the most obvious loop holes. This proposal aimes in: 
- * Highligth the current gaming vectors
- * Actively suggest ways for the community to find possible gaming schemes, active gamers etc.
- * Make suggestion to solve/or mitigate gaming vectors
+Gaming is unavoidable in any rewards incentivited utility blockchain project. It's important to curb this as soon as possible while the number of network participants is relatively small. If gaming vectors is not surfaced and addressed these issues will make new and excisting disenfranchised and lose their incentive to build the network. New gaming method will clearly always be developed after we closed the most obvious loop holes and this should be recocnized as a continous process.
+
+ This proposal aimes in: 
+ * Highligthing the current known gaming vectors and potenital not yet exploited ones
+ * Actively suggest ways for the community to find possible new gaming schemes, active gamers etc.
+ * Make suggestion to solve/or mitigate known gaming vectors
  * Enable a discussion to acheive the best approach to address the gaming that community supports
+ * Suggest other solution to early detect, incentatives bounties to find gamers or discover loop holes.
 
 ## Rationale
-*Accomplishing X is important because...*
 
 ## Details
 *The details of X are as follows...*
