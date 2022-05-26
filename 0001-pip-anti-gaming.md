@@ -5,27 +5,30 @@
 - **Status:** Draft
 
 ## Overview
-Gaming is unavoidable in any rewards incentivited utility blockchain project. It's important to curb this as soon as possible while the number of network participants is relatively small. If gaming vectors is not surfaced and addressed these issues will make new and excisting disenfranchised and lose their incentive to build the network. New gaming method will clearly always be developed after we closed the most obvious loop holes and this should be recocnized as a continous process.
+Gaming is unavoidable in any rewards incentivited utility blockchain project. It's important to curb this as soon as possible while the number of network participants is relatively small. If gaming vectors is not actively indentified and addressed these issues will make new and excisting network participants disenfranchised and lose their incentive to build the network. New gaming method will clearly always be developed after we closed the most obvious loop holes and this should be recocnized as a continous process and need communinity envolvement.
 
 
  This proposal aimes in: 
- * Highligthing the current known gaming vectors and potenital not yet exploited ones
- * Actively suggest ways for the community to find possible new gaming schemes, active gamers etc.
- * Make suggestion to solve/or mitigate known gaming vectors
- * Enable a discussion to acheive the best approach to address the gaming that community supports
- * Suggest other solution to early detect, incentatives bounties to find gamers or discover loop holes.
- 
+ * Indentify new potential gaming exploits which might be used or could be used
+ * Propose detailed solution to mitigate or ellimintate expolits these new exploits
+ * Propose detailed solutions to further enhance mitigation or elliminate already indentified exploits (see Appendix 1.)
+ * Propose penalities for different types of gaming
+ * Actively suggest ways for the community to find possible new gaming schemes, active gamers, incentive bounties etc.
+
 
 ## Rationale
 * To curb gaming as soon as possible while the number of network participants is relatively small before it affects network participant confidence in the Pollen project. * Be a role model to quickly indentify and address rewards gaming in the DeWi space.
 
 
-## Summary of current gaming activity and implemented remidies
+## Summary of historic gaming activity and what has been done to mitigate or ellinate them
 See Appendix 1.
 
+## New potential Gaming Exploits
+This exploits might already be going on but at the moment we don't have evidence for this
 
 ### Spoofing GPS with SDR (Software Defined Radio)
-* A bit more technical but not that hard todo. The basic principal is to use SDR to transmitt low power fake GPS transmissions that could re loacate BB's to game hex validation as long as the BB is in the coverage area of a Flower. HB drops could also be spoofed in this manner.
+* Without going into to many details a SDR can create any RF signal and this includes a GPS signal. When SDR is placed close to a Mobile Phone or a Bumblebee it will make these devices think they are in a specific location set my the operator. 
+** 1. Could spoof bumblebee Hex validation. Note: Operator still need to have connection to flower for this to work. For example a flower with limted coverage or a flower placed in an apartment could validate the full 7 hexes without the bumblebee ever be in the hex or those hex's actually have coverage.  
 
  
 #### Pollen addressing this exploit:
