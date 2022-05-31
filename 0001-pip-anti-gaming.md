@@ -42,12 +42,12 @@ This exploits might already be going on but at the moment we don't have evidence
 ** 2. Could spoof pollen drops for both BB and HB  
 
  
-#### Potential action could the taken (WIP
+#### Potential action could the taken for SDR spoofing (WIP)
  1. Use signal strength and FSPL to filter out impossible validation location (possible to game this as well though)
  2. Use assisted GPS, location of other know celluar network towers, WIFI hotspots etc.
 
 
-#### New Anti gaming measures (WIP)
+#### New Anti gaming measures for excisting indentified exploits see Appendix 1. (WIP)
 1. Reduce max Hex for a Camellia as its the most commonly gamed. 
  * Motivation: Its an indoor flower, a hex is several city block, and its therefore not possible for a Camellia to cover more then 1 hex.
  *  Side effects: A Camellia could be place in an outdoor enclosure on balcony, roof etc plus this would effect C owners that never gamed the rewards as well.
