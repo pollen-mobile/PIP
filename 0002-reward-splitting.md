@@ -20,15 +20,20 @@ An additional motivation for this transition is the added possibility of flower 
 Details
 
 I propose a system of masterNFTs and subNFTs to accomplish this goal.  Every flower currently exists on chain as an NFT with rewards being emitted daily based on their performance to the wallet that holds that NFT.  Under the proposed system, those NFTs would be considered the masterNFT and have the ability to mint more NFTs, subNFTs.  Similar to a gaming NFT that has the ability to update its attributes, the masterNFT would be able to be editable to direct percentages of its rewards to its different subNFTs.  The flower owner would simply sent a subNFT to a host and control what percentage of the rewards were apportioned to each subNFT.  If a host decides they no longer wish to host a flower, or that host has its wallet compromised in any way, the masterNFT can simply change that subNFT’s payout percentage to 0.  
+
 More work needs to be done to figure out how to get this mechanism to be functional and any help from community would be greatly appreciated to accomplish the NFT piece.  It is my assumption that an app would need to be developed to make the NFT editing possible.
 
 Implementation Details
 
 
 •	What are the technical hurdles to creating editable NFTs?
+
 •	Will an app need to be built on top?
+
 •	What is cost of creating these NFTs?
+
 •	How will the additional payouts affect the scaling of the PCN payout system?
+
 •	Should this be “opt-in” and require a payment in either SOL or PCN to cover any added transaction costs that Pollen Opco will incur as a result?
 
 Pros and Cons
@@ -38,7 +43,9 @@ The cost of setting up this type of a structure with automatic reward splitting 
 Unresolved Questions
 
 What is the potential cost of per day to do this? 
+
 What are the added legal complexities associated with securitization?
+
 Will network participants misinterpreting a rewards split as being determinant in ownership?
 
 Success Metrics
