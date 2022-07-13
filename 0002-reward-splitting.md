@@ -1,7 +1,9 @@
 Pollen Improvement Proposal-0002 Reward Splitting
 
 •	Author(s):  Max Gold
+
 •	Start Date: July 12, 2022
+
 •	Category: Economic
 
 
@@ -22,7 +24,7 @@ More work needs to be done to figure out how to get this mechanism to be functio
 
 Implementation Details
 
-In order to accomplish this, the following needs to be considered...
+
 •	What are the technical hurdles to creating editable NFTs?
 •	Will an app need to be built on top?
 •	What is cost of creating these NFTs?
@@ -40,5 +42,6 @@ What are the added legal complexities associated with securitization?
 Will network participants misinterpreting a rewards split as being determinant in ownership?
 
 Success Metrics
+
 I believe that many flowers will have their rewards split between multiple addresses after this functionality is deployed. I also believe that this deployed functionality will have a notable impact on the positive-feedback loop that will drive Pollen Network deployment as it will reduce the friction associated with establishing relationships between flower owners and flower hosts.  If Pollen is able have large scale deployments operating on revenue share agreements without the need for third party apps to be built to manage fleet payouts this will be deemed a success.
 
